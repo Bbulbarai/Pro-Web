@@ -1,0 +1,21 @@
+.news-title {
+    border-bottom: solid 2px #DA3017;
+    color: #DA3017;
+    padding: 10px 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.news-title span {
+    font-size: 13px;
+    display: block;
+    color: #999;
+}
+
+.ck-editor {
+    width: 100%;
+    overflow: hidden;
+    text-align: justify;
+    padding: 20px 0px;
+}

@@ -1,0 +1,65 @@
+.back-blue-box {
+  background-color: #f47322;
+  color: #fff;
+  font-size: 13px;
+  line-height: 22px;
+  padding: 8px 0px 14px 0px;
+}
+
+.calculation_input > div > div > div {
+  width: 210px;
+  padding-right: 20px;
+  float: left;
+}
+
+.calculation_input > div > div > div > label {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.has-icon-input {
+  width: 100%;
+}
+
+.has-icon-input {
+  display: inline-block;
+  position: relative;
+  max-width: 100%;
+}
+
+.has-icon-input > span {
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+  text-align: center;
+  width: 35px;
+  position: absolute;
+  color: #617693;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  background-color: #f2f5fa;
+  border-right: 1px solid #dfe4ed;
+  padding: 8px 0;
+}
+.calculation_input input.cerinput {
+  background-color: #fff;
+  border-radius: 3px;
+  font-size: 14px;
+  color: #222;
+  margin-left: 34px;
+}
+
+.has-icon-input > input.cerinput {
+  padding-left: 45px;
+}
+
+input[type="text"].cerinput,
+input[type="email"].cerinput,
+input[type="number"].cerinput,
+textarea.cerinput,
+select.cerinput {
+  line-height: 20px;
+  padding: 8px;
+  border: none;
+}
